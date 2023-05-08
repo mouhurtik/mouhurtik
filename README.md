@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mouhurtik
-- 👀 I’m interested in Android App Development and Blockchain.
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Artificial Intelligence/ML and Blockchain.
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Open-Source Projects
 - 📫 How to reach me mouhurtik@gmail.com
 
