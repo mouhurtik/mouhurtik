@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 👯 I’m looking to collaborate on [AdoptDontShop](adoptdontshop.xyz)
+- 👯 I’m looking to collaborate on [AdoptDontShop](https://adoptdontshop.xyz/)
 
 - 📫 How to reach me **mouhurtik@outlook.com**
 
